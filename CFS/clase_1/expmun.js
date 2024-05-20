@@ -1,0 +1,17 @@
+console.log("Los pasos a seguir para entregar un expediente municipal");   
+console.log("1°_ Pedir indicadores y comprar carpeta en D.O.P.");
+console.log("2°_ Adjuntar en la carpeta indicadores, aval dominial, planos borrador");
+console.log("3°_ Ingresar el expediente por D.C.");
+console.log("Recorrido de expediente");
+console.log("1°_ En D.C. se corrobora si lo entregado cumple con lo pedido en esa area, luego el expediente es pasado a inspección del area de D.O.P. ");
+console.log("2°_ Inspección llama al propietario para coordinar la visita para chequear medidas y distancias minimas requeridas de espacios y artefactos, luego pasa el expediente a D.P.");
+console.log("3°_ En D.P. corrobora F.O.S, F.O.T, retiros y cocheras, luego el expediente se pasa a D.O.P.");
+console.log("4°_ En D.O.P se corrobora plantas, cortes, instalaciones, silueta de superficie, balance de superficie, caratula municipal y que cumpla las medidas minimas  del reglamento de construccion");
+console.log("Puede ser que en algún paso previo se tenga que realizar correcciones. De ser así, se deberán retirar y realizar dichas correcciones. Luego, se vuelve a llevar a la instancia que corresponda y, al cumplir correctamente con cada corrección e instancia desde el D.O.P., se procederá a liquidar el proyecto y se podrá retirar.");
+console.log("Luego de que el expediente haya sido liquidado, se podrá pasar por el colegio. Una vez se tengan las 4 copias de planos selladas por el colegio, se adjuntarán al expediente junto con todas las correcciones previas, el contrato y anexa. Posteriormente, se llevará todo a D.O.P., donde se verificará que esté todo lo requerido para poder ingresarlo por mesa de entrada para la vuelta de firma.");
+console.log("Vuelta de firma");
+console.log("1°_ Se Rejistra el expediente y loego sera pasado para inspección o D.P");
+console.log("2°_ En D.P se procedera a firmar los planos y se pasara a D.O.P.");
+console.log("3°_ En D.O.P. se controlan los planos, contratos, anexa, certificados y alguna planilla extra que sea necesaria según lo requiera el proyecto. Una vez que todo esté listo, se procede a firmarlo y se lo pasa al director de D.C.");
+console.log("4°_ En D.C controla que este todo en orden y de ser así procede a firmarlo y luego se lo pasa al director de D.O.P.");
+console.log("5°_ En D.O.P. se realiza un chequeo general y se procede a firmarlo para que el profesional pueda retirar únicamente las 3 copias de planos del expediente. En caso de que la obra esté terminada, se podrá solicitar el final de obra junto con un nuevo expediente y una copia del plano. ");
