@@ -34,7 +34,7 @@ return resultado;
 
 resultadoPotencia=calcularPotencia(base,exponente);
 console.log (" el resultado de calcular la potencia del numero deseado es "+ resultadoPotencia); 
-
+-----------------------------------------------------------------------------------------
 
 import * as rls from 'readline-sync';
 

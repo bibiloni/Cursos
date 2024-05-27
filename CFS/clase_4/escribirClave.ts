@@ -22,13 +22,20 @@ si llega a 3 intentos imprime " Has agotado todas las oportunidades "
 
 import * as rls from 'readline-sync';
 
-let suma:number, contador:number, ingreseClave =rls.question (" Ingrese la clave ");
-contador=1
-suma=0
+let resta:number,contador:number,ingreseClave:string;
 
-while ( contador<=3 && ingreseClave=='eureka' ){ 
+for ( contador=1;contador<=3;contador++){
+    ingreseClave =rls.question (" Ingrese la clave ");
+    resta=3-contador;
+        if (ingreseClave==='eureka'){
+            console.log("Bienvenido");
+                break;
 
-    console.log( " Ingrese la clave : ");
-    contador++
-}
- +++++  
+        }else if(contador===3){
+            console.log(" Has agotado todas las oportunidades ");
+
+        }else {
+            console.log("Cleve erronea le quedan "+resta+ " intento");   
+        }
+}  
+
